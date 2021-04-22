@@ -36,7 +36,7 @@
         <dependency>
             <groupId>org.mybatis</groupId>
             <artifactId>mybatis</artifactId>
-            <version>3.5.0</version>
+            <version>3.5.6</version>
         </dependency> <!--引入 druid 数据源-->
         <dependency>
             <groupId>com.alibaba</groupId>
